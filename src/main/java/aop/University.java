@@ -28,12 +28,10 @@ public class University {
         public List<Student> getStudents(){
 
             System.out.println("start working method getStudents");
-          //  System.out.println(students.get(4));
+            System.out.println(students.get(4));
 
 
-            System.out.println("start of method getStudents");
 
-            //System.out.println(students.get(3));
 
             System.out.println("Information from Method  getStudents:");
 
